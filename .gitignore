@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*.swo
+.session.vim
+.git/
+/nvim/lazy-lock.json.backup
